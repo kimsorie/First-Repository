@@ -1,0 +1,11 @@
+html{background-color: #000000;}
+.a{display: absolute;margin: 10px 20px;}
+.b{position: absolute;margin: 10px 50px;}
+.c{position: absolute;margin: 10px 10px;}
+.d{position: absolute;margin: 10px 90px;}
+.e{position: absolute;margin: 10px 50px;}
+.f{position: absolute;margin: 10px 500px;}
+.g{position: absolute;margin: 10px 80px;}
+.h{position: absolute;margin: 10px 100px;}
+.i{position: absolute;margin: 10px 50px;}
+.end{margin: 100px;}
